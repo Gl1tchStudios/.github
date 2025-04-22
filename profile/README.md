@@ -11,9 +11,9 @@ Glitch Studios is a creative development hub focused on building innovative and 
 Most of our projects are **private**, but we share valuable resources and collaborate with the community whenever possible.
 
 ### Connect with Us  
-[![Tebex Badge](https://img.shields.io/badge/-TebexStore-000000?style=flat&labelColor=DDDDDD&logo=HomeAssistantCommunityStore&link=https://yourstore.tebex.io/)](https://glitch-studios.tebex.io/)  
-[![Discord Badge](https://img.shields.io/badge/-Glitch%20Studios-000000?style=flat&labelColor=7289DA&logo=discord&link=https://discord.gg/yourdiscordlink)](https://discord.gg/3DsNKxq2DQ)  
-[![Youtube Badge](https://img.shields.io/badge/-@GlitchStudios-000000?style=flat&labelColor=FF0000&logo=Youtube&link=https://www.youtube.com/@glitchstudios)](https://www.youtube.com)
+[![Tebex Badge](https://img.shields.io/badge/-TebexStore-000000?style=flat&labelColor=DDDDDD&logo=HomeAssistantCommunityStore&link=https://glitch-studios.tebex.io/)](https://glitch-studios.tebex.io/)  
+[![Discord Badge](https://img.shields.io/badge/-Glitch%20Studios-000000?style=flat&labelColor=7289DA&logo=discord&link=https://discord.gg/3DsNKxq2DQ)](https://discord.gg/3DsNKxq2DQ)  
+[![Youtube Badge](https://img.shields.io/badge/-@GlitchStudios-000000?style=flat&labelColor=FF0000&logo=Youtube&link=https://www.youtube.com/@GlitchStudiosOffical)](https://www.youtube.com/@GlitchStudiosOffical)
 
 Join our **Discord** to stay updated on our latest projects, request support, or collaborate with us.
 
